@@ -1,4 +1,4 @@
-package Java;
+package Java_Strings;
 
 public class AllSubsets {
 public static void main(String[] args) {

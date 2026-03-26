@@ -1,4 +1,4 @@
-package Java;
+package Java_Strings;
 
 public class PermuteString {
 	public static String swapString(String a, int i, int j) {
