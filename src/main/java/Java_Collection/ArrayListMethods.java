@@ -3,6 +3,7 @@ package Java_Collection;
 import java.util.ArrayList;
 
 public class ArrayListMethods {
+	@SuppressWarnings("unchecked")
 	public static void main(String[] args) {
 		
 	ArrayList<String> ar = new ArrayList<String>();
@@ -33,6 +34,7 @@ public class ArrayListMethods {
 	System.out.println(ar1.size());
 	System.out.println(ar1.remove("Monkey"));
 	System.out.println(ar1);
+	System.out.print(false);
 
 }
 }
